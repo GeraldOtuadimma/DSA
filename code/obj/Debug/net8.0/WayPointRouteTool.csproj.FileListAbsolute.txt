@@ -1,0 +1,14 @@
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\bin\Debug\net8.0\WayPointRouteTool.exe
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\bin\Debug\net8.0\WayPointRouteTool.deps.json
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\bin\Debug\net8.0\WayPointRouteTool.runtimeconfig.json
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\bin\Debug\net8.0\WayPointRouteTool.dll
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\bin\Debug\net8.0\WayPointRouteTool.pdb
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.AssemblyInfoInputs.cache
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.AssemblyInfo.cs
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.csproj.CoreCompileInputs.cache
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.dll
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\refint\WayPointRouteTool.dll
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.pdb
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\WayPointRouteTool.genruntimeconfig.cache
+C:\Users\Kay Daniel\Downloads\GeraldOtuadimma25928399\code\obj\Debug\net8.0\ref\WayPointRouteTool.dll
