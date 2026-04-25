@@ -1,0 +1,10 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
